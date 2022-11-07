@@ -107,6 +107,12 @@
     <Compile Include="Form8.Designer.cs">
       <DependentUpon>Form8.cs</DependentUpon>
     </Compile>
+    <Compile Include="welcomeform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="welcomeform.Designer.cs">
+      <DependentUpon>welcomeform.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form9b.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -166,6 +172,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="welcomeform.resx">
+      <DependentUpon>welcomeform.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
