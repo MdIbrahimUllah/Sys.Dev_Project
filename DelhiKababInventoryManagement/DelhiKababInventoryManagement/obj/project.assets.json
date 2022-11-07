@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mark\\dev\\Sys.Dev_Project\\DelhiKababInventoryManagement\\DelhiKababInventoryManagement\\DelhiKababInventoryManagement.csproj",
+      "projectUniqueName": "C:\\Users\\Mark\\OneDrive\\Desktop\\DelhiKababInventoryManagement\\DelhiKababInventoryManagement\\DelhiKababInventoryManagement.csproj",
       "projectName": "DelhiKababInventoryManagement",
-      "projectPath": "C:\\Users\\Mark\\dev\\Sys.Dev_Project\\DelhiKababInventoryManagement\\DelhiKababInventoryManagement\\DelhiKababInventoryManagement.csproj",
+      "projectPath": "C:\\Users\\Mark\\OneDrive\\Desktop\\DelhiKababInventoryManagement\\DelhiKababInventoryManagement\\DelhiKababInventoryManagement.csproj",
       "packagesPath": "C:\\Users\\Mark\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mark\\dev\\Sys.Dev_Project\\DelhiKababInventoryManagement\\DelhiKababInventoryManagement\\obj\\",
+      "outputPath": "C:\\Users\\Mark\\OneDrive\\Desktop\\DelhiKababInventoryManagement\\DelhiKababInventoryManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
