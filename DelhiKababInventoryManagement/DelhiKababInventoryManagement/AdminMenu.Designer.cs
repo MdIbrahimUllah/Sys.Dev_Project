@@ -35,6 +35,7 @@
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
             // 
@@ -55,14 +56,15 @@
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Segoe UI Semibold", 14.14286F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label1.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label1.Location = new System.Drawing.Point(243, 78);
+            this.label1.Location = new System.Drawing.Point(232, 78);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(196, 46);
+            this.label1.Size = new System.Drawing.Size(220, 46);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Main Menu";
+            this.label1.Text = "Admin Menu";
             // 
             // button1
             // 
+            this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button1.Font = new System.Drawing.Font("Segoe UI Semibold", 9.857143F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button1.Image = global::DelhiKababInventoryManagement.Properties.Resources.product1;
             this.button1.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -76,6 +78,7 @@
             // 
             // button2
             // 
+            this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button2.Font = new System.Drawing.Font("Segoe UI Semibold", 9.857143F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button2.Image = global::DelhiKababInventoryManagement.Properties.Resources.inventory1;
             this.button2.Location = new System.Drawing.Point(340, 156);
@@ -88,6 +91,7 @@
             // 
             // button3
             // 
+            this.button3.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button3.Font = new System.Drawing.Font("Segoe UI Semibold", 9.857143F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button3.Image = global::DelhiKababInventoryManagement.Properties.Resources.supplier12;
             this.button3.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -101,6 +105,7 @@
             // 
             // button4
             // 
+            this.button4.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button4.Font = new System.Drawing.Font("Segoe UI Semibold", 9.857143F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button4.Image = global::DelhiKababInventoryManagement.Properties.Resources.orderlist1;
             this.button4.Location = new System.Drawing.Point(340, 292);
@@ -113,6 +118,7 @@
             // 
             // button5
             // 
+            this.button5.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button5.Font = new System.Drawing.Font("Segoe UI Semibold", 9.857143F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button5.Image = global::DelhiKababInventoryManagement.Properties.Resources.user_account1;
             this.button5.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -124,12 +130,31 @@
             this.button5.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.button5.UseVisualStyleBackColor = true;
             // 
+            // button6
+            // 
+            this.button6.BackColor = System.Drawing.Color.Transparent;
+            this.button6.BackgroundImage = global::DelhiKababInventoryManagement.Properties.Resources.logout;
+            this.button6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button6.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button6.FlatAppearance.BorderSize = 0;
+            this.button6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.button6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
+            this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button6.ForeColor = System.Drawing.Color.Transparent;
+            this.button6.Location = new System.Drawing.Point(611, 545);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(40, 42);
+            this.button6.TabIndex = 8;
+            this.button6.UseVisualStyleBackColor = false;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
+            // 
             // AdminMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 30F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::DelhiKababInventoryManagement.Properties.Resources.dk2021;
             this.ClientSize = new System.Drawing.Size(663, 641);
+            this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
@@ -154,5 +179,6 @@
         private Button button3;
         private Button button4;
         private Button button5;
+        private Button button6;
     }
 }

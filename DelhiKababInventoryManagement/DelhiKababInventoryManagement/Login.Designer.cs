@@ -52,6 +52,7 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.label6 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel2.SuspendLayout();
@@ -150,6 +151,7 @@
             this.panel2.BackColor = System.Drawing.SystemColors.ControlLight;
             this.panel2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel2.Controls.Add(this.button6);
             this.panel2.Controls.Add(this.linkLabel1);
             this.panel2.Controls.Add(this.label9);
             this.panel2.Controls.Add(this.label8);
@@ -351,6 +353,23 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // button6
+            // 
+            this.button6.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.button6.BackgroundImage = global::DelhiKababInventoryManagement.Properties.Resources.logout;
+            this.button6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button6.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button6.FlatAppearance.BorderSize = 0;
+            this.button6.FlatAppearance.MouseDownBackColor = System.Drawing.SystemColors.ControlLight;
+            this.button6.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.ControlLight;
+            this.button6.ForeColor = System.Drawing.SystemColors.ControlLight;
+            this.button6.Location = new System.Drawing.Point(402, 485);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(43, 40);
+            this.button6.TabIndex = 13;
+            this.button6.UseVisualStyleBackColor = false;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
+            // 
             // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 30F);
@@ -403,5 +422,6 @@
         private Label label9;
         private Button button3;
         private Button button4;
+        private Button button6;
     }
 }

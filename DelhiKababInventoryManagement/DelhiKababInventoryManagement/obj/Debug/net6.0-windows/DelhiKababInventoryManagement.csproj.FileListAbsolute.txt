@@ -57,3 +57,5 @@ C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInve
 C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\ref\DelhiKababInventoryManagement.dll
 C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AdminMenu.resources
 C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AdminMenu.resources
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.GuestMenu.resources
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Product.resources

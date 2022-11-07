@@ -22,5 +22,13 @@ namespace DelhiKababInventoryManagement
             
           
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            var guestMenu = new GuestMenu();
+            guestMenu.Show();
+
+        }
     }
 }

@@ -10,19 +10,30 @@ using System.Windows.Forms;
 
 namespace DelhiKababInventoryManagement
 {
-    public partial class AdminMenu : Form
+    public partial class GuestMenu : Form
     {
-        public AdminMenu()
+        public GuestMenu()
         {
             InitializeComponent();
         }
 
-        private void button6_Click(object sender, EventArgs e)
+        private void GuestMenu_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
         {
             this.Hide();
             var welcomeForm = new WelcomeForm();
 
             welcomeForm.Show();
+
         }
     }
 }
