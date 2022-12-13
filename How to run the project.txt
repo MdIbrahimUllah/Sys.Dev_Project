@@ -1,0 +1,10 @@
+Use any IDE or any Text Editor(Visual Studio) to run the C# programming language,
+and follow the steps.
+
+Steps:
+
+1. Run the updated DDL and DML scripts in MS SQL server.
+2. Run the solution file DelhiKababInventoryManagement.sln inside the Folder Project Final structure.
+3. Login page:
+	username: Mrana
+	password: maR6595
