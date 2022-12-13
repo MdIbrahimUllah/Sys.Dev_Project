@@ -1,0 +1,225 @@
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.exe
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.deps.json
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.runtimeconfig.json
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.dll
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.pdb
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.AssemblyReference.cache
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Properties.Resources.resources
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.GenerateResource.cache
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AssemblyInfoInputs.cache
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AssemblyInfo.cs
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.dll
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\refint\DelhiKababInventoryManagement.dll
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.pdb
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.genruntimeconfig.cache
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\ref\DelhiKababInventoryManagement.dll
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.WelcomeForm.resources
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Login.resources
+C:\Users\Mark\dev\Sys.Dev_Project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.exe
+C:\Users\Mark\dev\Sys.Dev_Project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.deps.json
+C:\Users\Mark\dev\Sys.Dev_Project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.runtimeconfig.json
+C:\Users\Mark\dev\Sys.Dev_Project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.dll
+C:\Users\Mark\dev\Sys.Dev_Project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.pdb
+C:\Users\Mark\dev\Sys.Dev_Project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.AssemblyReference.cache
+C:\Users\Mark\dev\Sys.Dev_Project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Login.resources
+C:\Users\Mark\dev\Sys.Dev_Project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Properties.Resources.resources
+C:\Users\Mark\dev\Sys.Dev_Project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.WelcomeForm.resources
+C:\Users\Mark\dev\Sys.Dev_Project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.GenerateResource.cache
+C:\Users\Mark\dev\Sys.Dev_Project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\dev\Sys.Dev_Project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AssemblyInfoInputs.cache
+C:\Users\Mark\dev\Sys.Dev_Project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AssemblyInfo.cs
+C:\Users\Mark\dev\Sys.Dev_Project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Mark\dev\Sys.Dev_Project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.dll
+C:\Users\Mark\dev\Sys.Dev_Project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\refint\DelhiKababInventoryManagement.dll
+C:\Users\Mark\dev\Sys.Dev_Project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.pdb
+C:\Users\Mark\dev\Sys.Dev_Project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.genruntimeconfig.cache
+C:\Users\Mark\dev\Sys.Dev_Project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\ref\DelhiKababInventoryManagement.dll
+C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.exe
+C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.deps.json
+C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.runtimeconfig.json
+C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.dll
+C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.pdb
+C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.AssemblyReference.cache
+C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Login.resources
+C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Properties.Resources.resources
+C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.WelcomeForm.resources
+C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.GenerateResource.cache
+C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AssemblyInfoInputs.cache
+C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AssemblyInfo.cs
+C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.dll
+C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\refint\DelhiKababInventoryManagement.dll
+C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.pdb
+C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.genruntimeconfig.cache
+C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\ref\DelhiKababInventoryManagement.dll
+C:\Users\Mark\Downloads\Sys.Dev_Project-main\Sys.Dev_Project-main\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AdminMenu.resources
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AdminMenu.resources
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.GuestMenu.resources
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Product.resources
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AddItem.resources
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.exe
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.deps.json
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.runtimeconfig.json
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.dll
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.pdb
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.AssemblyReference.cache
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AddItem.resources
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AdminMenu.resources
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.GuestMenu.resources
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Login.resources
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Properties.Resources.resources
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.WelcomeForm.resources
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.GenerateResource.cache
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AssemblyInfoInputs.cache
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AssemblyInfo.cs
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.dll
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\refint\DelhiKababInventoryManagement.dll
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.pdb
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.genruntimeconfig.cache
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\ref\DelhiKababInventoryManagement.dll
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.CopyComplete
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AdminMainPanel.resources
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.ProductTable.resources
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Inventory.resources
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Order.resources
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Supplier.resources
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AccountSetting.resources
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.GuestMainPanel.resources
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.ProductGuest.resources
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.InventoryGuest.resources
+C:\Users\Mark\dev\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.InventoryGuest1.resources
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AccountSetting.resources
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AdminMainPanel.resources
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.GuestMainPanel.resources
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Inventory.resources
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.InventoryGuest.resources
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.InventoryGuest1.resources
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Order.resources
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.ProductGuest.resources
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.ProductTable.resources
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Supplier.resources
+C:\Users\Mark\OneDrive\Desktop\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.CopyComplete
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.exe
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.deps.json
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.runtimeconfig.json
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.dll
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.pdb
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.AssemblyReference.cache
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AccountSetting.resources
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AddItem.resources
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AdminMainPanel.resources
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AdminMenu.resources
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.GuestMainPanel.resources
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.GuestMenu.resources
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Inventory.resources
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.InventoryGuest.resources
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.InventoryGuest1.resources
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Login.resources
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Order.resources
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Product.resources
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.ProductGuest.resources
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.ProductTable.resources
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Properties.Resources.resources
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Supplier.resources
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.WelcomeForm.resources
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.GenerateResource.cache
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AssemblyInfoInputs.cache
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AssemblyInfo.cs
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.CoreCompileInputs.cache
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.CopyComplete
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.dll
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\refint\DelhiKababInventoryManagement.dll
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.pdb
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.genruntimeconfig.cache
+C:\Software Development\BLOCK#4\System Development\Projects\Team projects\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\ref\DelhiKababInventoryManagement.dll
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.exe
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.deps.json
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.runtimeconfig.json
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.dll
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.pdb
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.AssemblyReference.cache
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AccountSetting.resources
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AddItem.resources
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AdminMainPanel.resources
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AdminMenu.resources
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.GuestMainPanel.resources
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.GuestMenu.resources
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Inventory.resources
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.InventoryGuest.resources
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.InventoryGuest1.resources
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Login.resources
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Order.resources
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Product.resources
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.ProductGuest.resources
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.ProductTable.resources
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Properties.Resources.resources
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Supplier.resources
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.WelcomeForm.resources
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.GenerateResource.cache
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AssemblyInfoInputs.cache
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AssemblyInfo.cs
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.CoreCompileInputs.cache
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.CopyComplete
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.dll
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\refint\DelhiKababInventoryManagement.dll
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.pdb
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.genruntimeconfig.cache
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\ref\DelhiKababInventoryManagement.dll
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\jeasan0007\Software Development\BLOCK#4\System Development\Projects\Team projects\Final project\DelhiKababInventoryManagement\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.dll
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\refint\DelhiKababInventoryManagement.dll
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.pdb
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.exe
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.deps.json
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.runtimeconfig.json
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.dll
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\DelhiKababInventoryManagement.pdb
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AccountSetting.resources
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AddItem.resources
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AdminMainPanel.resources
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AdminMenu.resources
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.GuestMainPanel.resources
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.GuestMenu.resources
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Inventory.resources
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.InventoryGuest.resources
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.InventoryGuest1.resources
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Login.resources
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Order.resources
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Product.resources
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.ProductGuest.resources
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.ProductTable.resources
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Properties.Resources.resources
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.Supplier.resources
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.WelcomeForm.resources
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.GenerateResource.cache
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.AssemblyInfo.cs
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.csproj.CopyComplete
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\DelhiKababInventoryManagement.genruntimeconfig.cache
+C:\Users\User\Downloads\GreenTeam_final project (1)\GreenTeam_final project\DelhiKababInventoryManagement\obj\Debug\net6.0-windows\ref\DelhiKababInventoryManagement.dll
